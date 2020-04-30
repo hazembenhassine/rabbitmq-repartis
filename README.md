@@ -1,1 +1,1 @@
-"# rabbitmq-repartis" 
+# rabbitmq-repartis
